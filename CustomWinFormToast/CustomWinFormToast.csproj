@@ -6,6 +6,15 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+
+	  <!-- NuGet package metadata -->
+	  <PackageId>CustomWinFormToast</PackageId>
+	  <Version>1.0.0</Version>
+	  <Authors>Muhammad Asad Ullah</Authors>
+	  <Company>HNA</Company>
+	  <Description>Beautiful and modern toast notifications for Windows Forms apps</Description>
+	  <PackageTags>toast windows-forms winforms ui notifications</PackageTags>
+	  <RepositoryUrl>https://github.com/AsadRegards/CustomWinFormToast</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
