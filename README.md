@@ -12,10 +12,11 @@ A modern, customizable toast notification library for Windows Forms applications
 
 ## 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/96521298-0f11-4420-a117-bd8bdf922a4b)
-![image](https://github.com/user-attachments/assets/eec383bc-a6b0-4813-9a6a-dc7a6abc1552)
-![image](https://github.com/user-attachments/assets/85372e6a-4169-469c-b55d-3a3cd9a9107a)
+![Example 1](https://raw.githubusercontent.com/AsadRegards/CustomWinFormToast/master/CustomWinFormToast/Images/example1.png)
 
+![Example 2](https://raw.githubusercontent.com/AsadRegards/CustomWinFormToast/master/CustomWinFormToast/Images/example2.png)
+
+![Example 3](https://raw.githubusercontent.com/AsadRegards/CustomWinFormToast/master/CustomWinFormToast/Images/example3.png)
 
 
 
